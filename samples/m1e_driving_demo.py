@@ -14,7 +14,7 @@ Authors: Dave Fisher and TJ Ballard.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ------------------------------------------------------------------
-# TODO: 2
+# DONE: 2
 #   Follow along with the lecture to run this program in 2 ways:
 #    - Using SSH from your computer
 #    - Marking the file as an executable and running it via Brickman
@@ -32,7 +32,7 @@ def main():
     ev3.Sound.speak("Drive demo").wait()
 
     # ------------------------------------------------------------------
-    # TODO: 3
+    # DONE: 3
     #   Read the code and see if you can start learning the API by example
     #       ** Ask a TA or your professor for help as needed. **
     # ------------------------------------------------------------------
